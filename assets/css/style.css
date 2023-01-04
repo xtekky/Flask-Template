@@ -1,0 +1,19 @@
+body {
+    background-color:black
+}
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 64px;
+    font-weight: 900;
+    color: #ffffff;
+    text-shadow: 5px 5px 5px rgba(255, 255, 255, 0.2);
+}
